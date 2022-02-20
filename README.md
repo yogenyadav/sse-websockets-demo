@@ -9,8 +9,8 @@
 # Testing
 - Start front end - "cd <project root> && sudo start caddy"
 - Start back end
--- Method 1: Add python launcher in vscode and run server.py
---Method 2: command line - "uvicorn --host 127.0.0.1 --port 6001 server:app && uvicorn --host 127.0.0.1 --port 6002 server:app"
+  - Method 1: Add python launcher in vscode and run server.py
+  - Method 2: command line - "uvicorn --host 127.0.0.1 --port 6001 server:app && uvicorn --host 127.0.0.1 --port 6002 server:app"
 
 # To stop caddy
 - ps -ef | grep caddy
