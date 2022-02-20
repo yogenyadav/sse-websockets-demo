@@ -3,6 +3,7 @@ Its a demo of websockets versus server side events. While websockets is a 2 way 
 - [Websocket protocol](https://datatracker.ietf.org/doc/html/rfc6455)
 - [Compression Extensions for WebSocket](https://datatracker.ietf.org/doc/html/rfc7692)
 - [Cross-Site WebSocket Hijacking](https://christian-schneider.net/CrossSiteWebSocketHijacking.html#main)
+- [Server-Sent Events: the alternative to WebSockets you should be using](https://germano.dev/sse-websockets/)
 
 ## Dependencies
 - python3 
