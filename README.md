@@ -1,5 +1,8 @@
 Its a demo of websockets versus server side events. While websockets is a 2 way client server communication protocol, using sse only server can send events to client; while different, the sse is well supported by both browsers and mobile devices and most major backends. sse is a far simpler protocol as compared to websockets. also sse being built on http, it can use all the http benefits like http2's multiplexing, compressions, cross site highjacking prevention.
-This site was built using [GitHub Pages](https://pages.github.com/)
+- [SSE vs WebSockets vs Long Polling](https://www.youtube.com/watch?v=n9mRjkQg3VE&ab_channel=FestGroup)
+- [Websocket protocol](https://datatracker.ietf.org/doc/html/rfc6455)
+- [Compression Extensions for WebSocket](https://datatracker.ietf.org/doc/html/rfc7692)
+- [Cross-Site WebSocket Hijacking](https://christian-schneider.net/CrossSiteWebSocketHijacking.html#main)
 
 ## Dependencies
 - python3 
